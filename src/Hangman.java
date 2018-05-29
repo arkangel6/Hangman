@@ -98,6 +98,7 @@ public class Hangman {
 	frame.add(panel);
 	panel.add(tf);
 	panel.add(button);
+	
 	frame.setVisible(true);
 	
 	
